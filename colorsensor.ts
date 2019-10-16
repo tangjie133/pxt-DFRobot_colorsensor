@@ -37,6 +37,10 @@ namespace DFRobot_ColorSensor{
         return true;
     }
 
+    function GetRGB() {
+        
+    }
+
     //%block="get read"
     export function GetRead() {
         
