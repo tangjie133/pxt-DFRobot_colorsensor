@@ -1,3 +1,3 @@
 basic.forever(function () {
-    basic.showNumber(0)
+    basic.showNumber(DFRobot_ColorSensor.GetRead())
 })
