@@ -1,1 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="device_forever" id="|^98C1}a|!3Y:IL9_gUo" x="20" y="20"></block></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="device_forever" id="$hBK?!{q`5+9E@#{MZ;O" x="124" y="0"><statement name="HANDLER"><block type="device_show_number" id="-d78O9CT$QnN=,H-VjVj"><value name="number"><shadow type="math_number" id="Ex=!6^gmRy.)xx3$J0GJ"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
