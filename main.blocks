@@ -1,1 +1,0 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="device_forever" id=".r_(Zg@qOW{ta)W}4A5q" x="20" y="20"><statement name="HANDLER"><block type="device_show_number" id="oa=;u5*vEho1SGC-H*H%"><value name="number"><block type="DFRobot_ColorSensor_GetRead" id="Md}6Tm5_*KOfm`Z$8m~w"></block></value></block></statement></block></xml>
