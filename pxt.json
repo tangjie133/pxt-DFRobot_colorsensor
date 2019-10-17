@@ -9,11 +9,11 @@
         "main.ts",
         "README.md",
         "colorsensor.ts",
-		"_locales/zh-cn/colorsensor-strings.json"
+        "_locales/zh-cn/colorsensor-strings.json"
     ],
     "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ],
-    "installedVersion": "workspace:3cad1027-d05a-4135-d04a-73ad43d3959e"
+    "installedVersion": "workspace:5b2e69ed-6cb2-4651-3f27-a95ee4740539"
 }
