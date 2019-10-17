@@ -93,7 +93,7 @@ namespace DFRobot_ColorSensor{
     }
     
     //%block ="get light"
-    export function GetLinght():number {
+    export function GetC():number {
         GetRGBC();
        return (Math.round(TCS34725_RGBC_C))  
     }
