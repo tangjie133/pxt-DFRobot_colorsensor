@@ -1,6 +1,6 @@
 {
-    "DFRobot_ColorSensor.GetRead|block":"红色值",
-    "DFRobot_ColorSensor.GetGreen|block":"绿色值",
-    "DFRobot_ColorSensor.GetBlue|block":"蓝色值",
-    "DFRobot_ColorSensor.GetLinght|block":"自然光"  
+    "DFRobot_ColorSensor.GetRead|block": "红色值",
+    "DFRobot_ColorSensor.GetGreen|block": "绿色值",
+    "DFRobot_ColorSensor.GetBlue|block": "蓝色值",
+    "DFRobot_ColorSensor.GetLinght|block": "自然光"  
 }

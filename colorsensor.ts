@@ -77,18 +77,21 @@ namespace DFRobot_ColorSensor{
         //serial.writeNumber(Math.round(R))
         return R
     }
+
     //%block = "get green"
     export function GetGreen():number {
         GetRGBC();
         let G = (Math.round(TCS34725_RGBC_G) / Math.round(TCS34725_RGBC_C)) * 255
         return G
     }
+
     //%block = "get blue"
     export function GetBlue() :number{
         GetRGBC();
         let B = (Math.round(TCS34725_RGBC_B) / Math.round(TCS34725_RGBC_C)) * 255
         return B
     }
+    
     //%block ="get light"
     export function GetLinght():number {
         GetRGBC();
