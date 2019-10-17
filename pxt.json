@@ -6,7 +6,6 @@
     },
     "description": "",
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md",
         "colorsensor.ts"
@@ -14,5 +13,6 @@
     "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "installedVersion": "workspace:3cad1027-d05a-4135-d04a-73ad43d3959e"
 }
