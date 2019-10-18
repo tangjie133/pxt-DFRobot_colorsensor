@@ -1,5 +1,5 @@
 {
-    "name": "ColorSensot",
+    "name": "colorsensot",
     "dependencies": {
         "core": "*",
         "radio": "*"
